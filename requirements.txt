@@ -2,3 +2,4 @@ flask
 cloudscraper
 fake-useragent
 faker
+gunicorn
